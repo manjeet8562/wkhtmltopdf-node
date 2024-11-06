@@ -1,4 +1,4 @@
-# docker-wkhtmltopdf-node-alpine
+# docker-wkhtmltopdf-node
 This repository is explaining how wkhtmltopdf can be implemented in docker container based deployment with Node image for Features like HTML to PDF Generation
 
 # Dockerfile
