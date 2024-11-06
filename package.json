@@ -1,0 +1,29 @@
+{
+  "name": "wkhtmltopdf-node",
+  "version": "1.0.0",
+  "description": "Wkhtmltopdf package for converting HTML to PDF with node image in dockerfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manjeet8562/wkhtmltopdf-node"
+  },
+  "keywords": [
+    "wkhtmltopdf",
+    "html",
+    "pdf",
+    "node",
+    "docker",
+    "dockerfile",
+    "bullseye"
+  ],
+  "author": "https://github.com/manjeet8562",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1",
+    "wkhtmltopdf": "^0.4.0"
+  }
+}
